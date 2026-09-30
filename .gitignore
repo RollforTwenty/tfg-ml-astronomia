@@ -1,0 +1,14 @@
+# Basura de LaTeX
+*.aux
+*.log
+*.out
+*.gz
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Basura de Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
